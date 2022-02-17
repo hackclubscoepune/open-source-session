@@ -4,7 +4,7 @@
  ## How to contribute ?
  
  - Fork this repository
- - Clone repository to local machine
+ - Clone repository to local machine ( use your repo url )
  ```git
  git clone https://github.com/hackclubscoepune/open-source-session.git
  ```
